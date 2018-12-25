@@ -1,5 +1,5 @@
-Print(Hello, World)!
+Print("Hello, World!");
 print("Hello, everybody!");
-print("Hello, you good man");
+print("Hello, you good man!");
 print("Hello, my dear friend!");
-print("Glad to see you!")
+print("Glad to see you!");
